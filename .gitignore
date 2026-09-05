@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.screenshots/
+.browser_data/
+.psiphon_data/
+.agent_hooks/
+outputs/
+generated_images/
+summarized_conversations/
+*.zip
+*.log
+.DS_Store
+.vite/
